@@ -1,0 +1,45 @@
+{
+    "tabnine.experimentalAutoImports": true,
+    "editor.fontLigatures": true,
+    "editor.wordWrap": "on",
+    "workbench.colorTheme": "Night Wolf (dark blue) (No Italics)",
+    "workbench.statusBar.visible": false,
+    "workbench.sideBar.location": "right",
+    "workbench.activityBar.visible": false,
+    
+    // "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+        
+        "source.fixAll.eslint": true
+        },
+
+    
+    "editor.formatOnPaste": true,
+    "editor.guides.indentation": true,
+    "editor.fontSize": 17,
+    "editor.fontWeight": "400",
+    "editor.minimap.renderCharacters": false,
+    "editor.minimap.enabled": false,
+    "editor.fontVariations": false,
+    "editor.fontFamily": "FiraCode NF",
+    "editor.cursorBlinking": "smooth",
+    "editor.tabSize": 2,
+    "workbench.layoutControl.enabled": false,
+    "window.commandCenter": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "editor.renderWhitespace": "none",
+    "editor.renderControlCharacters": false,
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "emmet.includeLanguages": {
+    "javascript": "html"
+},
+"typescript.updateImportsOnFileMove.enabled": "always"
+
+    
+
+    
+}

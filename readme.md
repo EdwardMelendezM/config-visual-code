@@ -1,0 +1,1 @@
+# Configuracion de visual code global
